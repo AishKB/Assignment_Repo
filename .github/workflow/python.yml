@@ -10,7 +10,7 @@ on:
 
 jobs:
   test:
-    runs-on: ubuntu-latest  # Use the latest Ubuntu image as the environment
+    runs-on: windows-latest  # Use the latest window as the environment
 
     steps:
       # Step 1: Check out the repository
